@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1617776275 source:d:\dsa\graph\prim's_algorithm\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1617788534 d:\dsa\graph\prim's_algorithm\graph.h
+	<stdio.h>
+	<stdlib.h>
+
+1617788394 source:d:\dsa\graph\prim's_algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
