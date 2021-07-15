@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1618373373 source:d:\c programming\dsa_ii_miniproject\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"hospital_mangement.h"
+
+1618370992 d:\c programming\dsa_ii_miniproject\hospital_mangement.h
+
